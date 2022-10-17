@@ -1,8 +1,8 @@
 #########################################################################################################################################
-# Manuscript title: Perinatal Oxycodone Exposure Causes Long Term Sex-Dependent Changes in Sensory and Reward Processing in Adult Mice  #
-# Manuscript authors: Minakova, E. & Mikati, M. et al.                                                                                  #
-# Authors: Justin Baldwin and Marwa Mikati                                                                                              #
-# 2022-02-10                                                                                                                            #
+# Manuscript title: Perinatal oxycodone Exposure causes long term sex-dependent changes in weight trajectory and sensory processing in adult mice  #
+# Manuscript authors: Minakova, E. & Mikati, M. et al.                                                                                             #
+# Authors: Justin Baldwin and Marwa Mikati                                                                                                         #
+# 2022-02-10                                                                                                                                       #
 #########################################################################################################################################
 
 library(tidyverse)
